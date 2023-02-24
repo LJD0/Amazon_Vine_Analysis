@@ -1,7 +1,5 @@
 # Amazon_Vine_Analysis
 
-Module 17 OSU Bootcamp
-
 Analysis of Amazon Vine Program
 
 The purpose of this analysis is to evaluate the effectiveness of the Vine program, specifically in regards to unpaid and paid program reviews.
